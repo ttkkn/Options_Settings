@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat
+        android:title="with-Compat"
+        android:key="sw1" />
+    <SwitchPreference
+        android:title="no-Compat"
+        android:key="sw2" />
+</PreferenceScreen>
